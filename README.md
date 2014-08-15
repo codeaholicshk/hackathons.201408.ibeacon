@@ -27,3 +27,10 @@ hackathons.201408.ibeacon
 * UX
 * cost
 * setup
+
+
+## UUID
+
+* Garage Society
+* Passkit
+* Kobi
