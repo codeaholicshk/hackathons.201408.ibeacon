@@ -31,6 +31,33 @@ hackathons.201408.ibeacon
 * setup
 
 
+## Estimote in Garage Society
+
+* Use Estimote App to search for them.
+
+- UUID: B9407F30-F5F8-466E-AFF9-25556B57FE6D
+
+### 8/F Reception:
+major: 8 / minor: 7102
+
+### 8/F Member Zone:
+major: 8 / minor: 31008
+
+### 8/F Batman Classroom:
+major: 8 / minor: 31664
+
+
+### 9/F Reception:
+major: 9 / minor: 62353
+
+### 9/F Open Area:
+major: 9 / minor: 26057
+
+### 9/F Roof:
+major: 9 / minor: 50549
+
+
+
 ## UUID
 
 * Garage Society
