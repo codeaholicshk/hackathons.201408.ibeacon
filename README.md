@@ -7,6 +7,7 @@ hackathons.201408.ibeacon
 * [iBeacon basics](http://www.slideshare.net/mobile/1request/ibeacon-workshop-by-request)
 * [Swift iBeacon Tutorial](http://ibeaconmodules.us/blogs/news/14702963-tutorial-swift-based-ibeacon-app-development-with-corelocation-on-apple-ios-7-8)
 * [Swift iBeacon libraries](https://github.com/gemtot?tab=activity)
+* [Objective-C iBeacon sample](http://www.raywenderlich.com/66584/ios7-ibeacons-tutorial)
 * [Objective-C iBeacon discussion](http://thenewstack.io/building-an-ibeacon-app/) : Sample code, UX and Permission Matrix consideration
 * [Android iBeacon API](https://github.com/AltBeacon/android-beacon-library)
 * [Cordova iBeacon Plugin 1](https://github.com/attendease/iBeaconsPlugin) : Supports both Android and iOS
