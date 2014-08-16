@@ -1,8 +1,20 @@
 hackathons.201408.ibeacon
 =========================
 
+## Projects
 
-## References
+### Groupbuy in Supermarket
+
+### Open Beacon Directory
+
+### Chortle - Geofencing Voting Apps
+
+### Daily Loyalty Program
+
+[https://github.com/3dd13/daily_loyalty_program](https://github.com/3dd13/daily_loyalty_program)
+
+
+## Development References
 
 * [iBeacon basics](http://www.slideshare.net/mobile/1request/ibeacon-workshop-by-request)
 * [Swift iBeacon Tutorial](http://ibeaconmodules.us/blogs/news/14702963-tutorial-swift-based-ibeacon-app-development-with-corelocation-on-apple-ios-7-8)
