@@ -3,15 +3,41 @@ hackathons.201408.ibeacon
 
 ## Projects
 
+
 ### Groupbuy in Supermarket
+
+Find partner in supermarket to get gropu buy discount. and perhaps a dating chance ?
+
 
 ### Open Beacon Directory
 
+Online directory of iBeacon UUID and location information
+
+
 ### Chortle - Geofencing Voting Apps
+
+You can only vote if you stay at the venue for a long enough period of time
+
+
+### Research on iBeacon in Museum
+
+How to enhance Museum expreience with latest location based technology ?
+
+Presentation Slides: [http://goo.gl/Ewvhyd](http://goo.gl/Ewvhyd)
+
 
 ### Daily Loyalty Program
 
-[https://github.com/3dd13/daily_loyalty_program](https://github.com/3dd13/daily_loyalty_program)
+Sample code to do a daily checkin apps. Swift, Parse and iBeacon
+
+Source Code: [https://github.com/3dd13/daily_loyalty_program](https://github.com/3dd13/daily_loyalty_program)
+
+
+### Sphero, Follow Me !
+
+Sample code to auto pilot the robot following the controller
+
+Source Code: [https://github.com/3dd13/sphero_follow_me](https://github.com/3dd13/sphero_follow_me)
 
 
 ## Development References
