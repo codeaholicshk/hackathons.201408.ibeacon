@@ -6,8 +6,15 @@ hackathons.201408.ibeacon
 
 ### 1. Groupbuy in Supermarket
 
-Find partner in supermarket to get gropu buy discount. and perhaps a dating chance ?
+Find partner in supermarket to get group buy discount. and perhaps a dating chance ?
 
+Presentation Slides: [http://www.slideshare.net/AK51/beaconbabe-on-ha](http://www.slideshare.net/AK51/beaconbabe-on-ha)
+
+* Andy Kong: andykong51@gmail.com
+* Matthew Chiu: mchiu77@gmail.com
+* Sunny Cheung: sunnycyk@yahoo.com
+* Edward Fung: edwardfung123@gmail.com
+* Niko Chiu: niko880520@gmail.com
 
 ### 2. Open Beacon Directory
 
