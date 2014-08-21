@@ -4,7 +4,7 @@ hackathons.201408.ibeacon
 ## Projects
 
 
-### 1. Groupbuy in Supermarket
+### 1. Beacon Babe - Groupbuy in Supermarket
 
 Find partner in supermarket to get group buy discount. and perhaps a dating chance ?
 
