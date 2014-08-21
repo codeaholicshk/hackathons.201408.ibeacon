@@ -12,6 +12,8 @@ Presentation Slides: [http://www.slideshare.net/AK51/beaconbabe-on-ha](http://ww
 
 Source Code: [https://github.com/edwardfung123/beaconbabe](https://github.com/edwardfung123/beaconbabe)
 
+Team:
+
 * Andy Kong: andykong51@gmail.com
 * Matthew Chiu: mchiu77@gmail.com
 * Sunny Cheung: sunnycyk@yahoo.com
@@ -41,6 +43,9 @@ Sample code to do a daily checkin apps. Swift, Parse and iBeacon
 
 Source Code: [https://github.com/3dd13/daily_loyalty_program](https://github.com/3dd13/daily_loyalty_program)
 
+Team:
+
+* Eddie Lau 3dd13@42la.bs
 
 ### 6. Sphero, Follow Me !
 
@@ -48,6 +53,9 @@ Sample code to auto pilot the robot following the controller. Robot keeps in cer
 
 Source Code: [https://github.com/3dd13/sphero_follow_me](https://github.com/3dd13/sphero_follow_me)
 
+Team:
+
+* Eddie Lau 3dd13@42la.bs
 
 ## Development References
 
