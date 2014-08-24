@@ -87,7 +87,6 @@ Team:
 * cost
 * setup
 
-
 ## Estimote in Garage Society
 
 * Use Estimote App to search for them.
