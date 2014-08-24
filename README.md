@@ -30,7 +30,7 @@ Demo Site: [beaconHub Directory](http://beaconhub.herokuapp.com/)
 Screens:
 
 beaconHub Map:
-![beaconHub Map](https://github.com/harryworld/hackathons.201408.ibeacon/images/beaconHub-map.png)
+![beaconHub Map](https://raw.githubusercontent.com/harryworld/hackathons.201408.ibeacon/master/images/beaconHub-map.png)
 
 Team:
 
