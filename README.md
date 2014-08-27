@@ -11,6 +11,7 @@ Find partner in supermarket to get group buy discount. and perhaps a dating chan
 Presentation Slides: [http://www.slideshare.net/AK51/beaconbabe-on-ha](http://www.slideshare.net/AK51/beaconbabe-on-ha)
 
 Source Code: [https://github.com/edwardfung123/beaconbabe](https://github.com/edwardfung123/beaconbabe)
+Source Code: [https://github.com/sunnycyk/ios-beaconbabe](sunnycyk/ios-beaconbabe)
 
 Team:
 
