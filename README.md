@@ -25,6 +25,23 @@ Team:
 
 Online directory of iBeacon UUID and location information
 
+Source Code: [GitHub: beaconHub](https://github.com/beaconHub)
+Demo Site: [beaconHub Directory](http://beaconhub.herokuapp.com/)
+
+Screens:
+
+beaconHub Map:
+![beaconHub Map](https://raw.githubusercontent.com/harryworld/hackathons.201408.ibeacon/master/images/beaconHub-map.png)
+
+Team:
+
+* William Wong: william@beaconhub.org / @TheWilliamWong
+* Kwun Yeung: kwun@beaconhub.org / @kwunyeung
+* Samuel Au: sam@kopi-d.com / @samau
+* Terry Pang: pandaxbacon@beaconhub.org / @pandaxbacon
+* Alex Choi: @meoster
+* Pili Hu: @hupili
+* Harry Ng: harry@beaconhub.org / @harryworld
 
 ### 3. Chortle - Geofencing Voting Apps
 
@@ -87,7 +104,6 @@ Team:
 * UX
 * cost
 * setup
-
 
 ## Estimote in Garage Society
 
